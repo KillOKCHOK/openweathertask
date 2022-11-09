@@ -1,0 +1,66 @@
+body{
+    color:black !important;
+}
+
+
+.pageBaseComponent{
+    background: white;
+}
+
+
+.mainPageFirstLvl{
+    
+    opacity: 0.85;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    min-width: 320px;
+    color:black !important;
+    padding: 2%;
+}
+
+.logo{
+    background-image: url("./logoweather.png")  !important;
+    background-size:100% 100% !important;
+    min-height: 220px;
+}
+
+.mainPageSecondLvl{
+    background: lightgray;
+    opacity: 0.95;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    min-width: 320px;
+    color:black !important;
+}
+
+.mainPageThirdLvl{
+    background: white;
+    opacity: 0.85;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    min-width: 320px;
+    color:black !important;
+}
+
+.mainPageFourthLvl{
+    background: white;
+    opacity: 0.85;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    min-width: 320px;
+    color:black !important;
+}
+
+
+.textCenter{
+    text-align: center;
+}
+.textJustify{
+    text-align: justify;
+}
